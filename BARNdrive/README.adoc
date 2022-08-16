@@ -2,6 +2,5 @@
 
 This library controls RMCS-2303 drive on ASCII modbus. Multiple drives can be controlled over single TTL serial line. All parameters of drive can be set using arduino code and functions.
 
-For more information about this library please visit us at
-https://robokits.co.in/motor-drives-drivers/encoder-dc-servo/rhino-dc-servo-driver-50w-compatible-with-modbus-uart-ascii-for-encoder-dc-servo-motor
+
 
