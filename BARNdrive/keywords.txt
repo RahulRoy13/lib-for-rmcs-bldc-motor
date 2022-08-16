@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For BARNdrive
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BARN	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Serial0				KEYWORD2
+Serial_selection		KEYWORD2
+begin				KEYWORD2
+Enable_Digital_Mode		KEYWORD2
+Speed				KEYWORD2
+WriteSingleRegister 		KEYWORD2
+ReadSingleRegister		KEYWORD2
+Modbus_string			KEYWORD2
+print_hex			KEYWORD2
+nibble				KEYWORD2
+LRC				KEYWORD2
+hexToBytes			KEYWORD2
+Speed_Feedback			KEYWORD2
+value 				KEYWORD2
+READ_PARAMETER			KEYWORD2
+READ_DEVICE_MODBUS_ADDRESS	KEYWORD2
+READ_INP_CONTROL_BYTE		KEYWORD2
+READ_INP_MODE_BYTE 		KEYWORD2
+WRITE_PARAMETER			KEYWORD2
+READ_TRP_SPD_WORD		KEYWORD2
+SAVE				KEYWORD2
+RESET				KEYWORD2
+Disable_Digital_Mode		KEYWORD2
+Brake_Motor 			KEYWORD2
+
+
+#
+#######################################
+# Constants (LITERAL1)
+#######################################
+
